@@ -1,7 +1,7 @@
 
 ## Fading in Widget
 
-![showcase](https://github.com/sameteyisan/fading_in_widget/blob/main/showcase.gif)
+<img  src="https://github.com/sameteyisan/fading_in_widget/blob/main/showcase.gif?raw=true"  width="280">
  
 All you need to do is wrap your widget with the fading widget. The rest will happen by itself.
 

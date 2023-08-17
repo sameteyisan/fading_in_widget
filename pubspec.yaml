@@ -1,6 +1,6 @@
 name: fading_in_widget
 description: The Fading in widget package is used to bring any widget to the screen with a fading animation.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/sameteyisan/fading_in_widget.git
 
 environment:
