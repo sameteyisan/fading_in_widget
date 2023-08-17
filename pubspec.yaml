@@ -1,0 +1,19 @@
+name: fading_in_widget
+description: The Fading in widget package is used to bring any widget to the screen with a fading animation.
+version: 1.0.0
+homepage: https://github.com/sameteyisan/fading_in_widget.git
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
