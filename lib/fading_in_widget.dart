@@ -4,15 +4,23 @@ import 'package:flutter/material.dart';
 
 class FadingInWidget extends StatefulWidget {
   const FadingInWidget({
-    Key? key,
+    super.key,
     required this.child,
     this.duration = const Duration(seconds: 2),
     this.delay = Duration.zero,
     this.curve = Curves.easeInOut,
-  }) : super(key: key);
+  });
+
+  /// The child widget to be displayed
   final Widget child;
+
+  /// Duration of the animation
   final Duration duration;
+
+  /// Waiting time before the animation starts
   final Duration delay;
+
+  /// Curve of the animation
   final Curve curve;
 
   @override
