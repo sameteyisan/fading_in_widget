@@ -1,11 +1,17 @@
 name: fading_in_widget
-description: The Fading in widget package is used to bring any widget to the screen with a fading animation.
-version: 1.0.2
-homepage: https://github.com/sameteyisan/fading_in_widget.git
+description: A lightweight Flutter widget that fades any child into view with customizable delay, duration, and animation curve.
+version: 1.0.3
+homepage: https://github.com/sameteyisan/fading_in_widget
+repository: https://github.com/sameteyisan/fading_in_widget
+issue_tracker: https://github.com/sameteyisan/fading_in_widget/issues
+topics:
+  - animation
+  - widgets
+  - fade
 
 environment:
   sdk: ^3.7.2
-  flutter: ">=1.17.0"
+  flutter: ">=3.29.2"
 
 dependencies:
   flutter:
@@ -15,5 +21,3 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
-
-flutter:

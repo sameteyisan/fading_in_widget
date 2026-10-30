@@ -1,0 +1,30 @@
+# Build outputs, caches, and editor configuration.
+.dart_tool/
+build/
+.idea/
+.vscode/
+.history/
+*.iml
+*.ipr
+*.iws
+*.log
+*.pyc
+*.swp
+.DS_Store
+
+# Local package files and legacy generated platform directories.
+/.metadata
+/pubspec.lock
+/android/
+/ios/
+
+# The README loads the hosted copy of this demo animation.
+/showcase.gif
+
+# Generated platform files are recreated by Flutter in the example app.
+**/local.properties
+**/GeneratedPluginRegistrant.*
+**/Generated.xcconfig
+**/flutter_export_environment.sh
+**/Flutter/ephemeral/
+**/Flutter/.last_build_id
