@@ -6,7 +6,7 @@ Give any Flutter widget a softer entrance. Wrap your content with
 `FadingInWidget` and it will fade into view automatically, with an optional delay
 and a customizable duration and curve.
 
-<img src="https://raw.githubusercontent.com/sameteyisan/fading_in_widget/main/showcase.gif" alt="Fading in Widget animation demo" width="280">
+<img src="https://github.com/sameteyisan/fading_in_widget/blob/main/showcase.gif?raw=true" alt="Fading in Widget animation demo" width="280">
 
 ## Installation
 
@@ -14,7 +14,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  fading_in_widget: ^1.0.3
+  fading_in_widget: ^1.0.4
 ```
 
 Then run:

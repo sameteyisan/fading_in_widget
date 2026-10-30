@@ -1,6 +1,6 @@
 name: fading_in_widget
 description: A lightweight Flutter widget that fades any child into view with customizable delay, duration, and animation curve.
-version: 1.0.3
+version: 1.0.4
 homepage: https://github.com/sameteyisan/fading_in_widget
 repository: https://github.com/sameteyisan/fading_in_widget
 issue_tracker: https://github.com/sameteyisan/fading_in_widget/issues
